@@ -1,6 +1,6 @@
 Summary:    A collection of add-ons for the CMake build tool
 Name:       cmake-extras
-Version:    1.7
+Version:    1.8
 Release:    1
 License:    GPL-3.0
 Group:		Development/Other
